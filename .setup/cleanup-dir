@@ -1,0 +1,2 @@
+#!/usr/bin/env bash
+rm -r ../models/__pycache__/ ../models/engine/__pycache__/ ../web_dynamic/__pycache__/
