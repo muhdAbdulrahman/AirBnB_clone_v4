@@ -1,0 +1,13 @@
+.*.sw?
+*.pyc
+__p*
+~*
+*.exe
+*.out
+.*
+*main.py
+*main.js
+*.csv
+*.json
+test.py
+models/__pycache__/
